@@ -1,5 +1,4 @@
 #!/bin/bash
-# In development - not usable.
 # To be used with the Cray compilers (PrgEnv-cray).
 
 CC='cc'
@@ -22,7 +21,6 @@ if test "x$IEEE" = x ; then   #- with optimisation:
 
 	# notes from ARcher opt file:
 	#   FOPTIM='-O2 -hfp3 -Oipa5' for less agressive optimization
-#   Be aware not all experiments pass the restart test with optimization
 
     FOPTIM='-O3 -hfp3 -Oipa5'
 else
