@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/493604098.svg)](https://zenodo.org/badge/latestdoi/493604098)
+
 # eCSE-archer2-verification
 
 Contains scripts as they are June 2022, end of eCSE02-06 project.
