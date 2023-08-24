@@ -2,7 +2,7 @@
 
 # eCSE-archer2-verification
 
-Contains scripts as they are June 2022, end of eCSE02-06 project.
+Contains scripts as they are June 2022, end of eCSE02-06 project, details in [report](https://doi.org/10.5281/zenodo.8273066).
 
 The standard verification tests were run on the checkpoint of MITgcm used by ECCO4v, 66g
 
